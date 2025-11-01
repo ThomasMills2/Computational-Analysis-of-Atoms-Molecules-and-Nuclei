@@ -1,11 +1,3 @@
-#!/usr/bin/env python3
-# -*- coding: utf-8 -*-
-"""
-Created on Sat Nov  1 20:50:47 2025
-
-@author: tom
-"""
-
 import numpy as np
 import matplotlib.pyplot as plt
 from scipy.integrate import simps
